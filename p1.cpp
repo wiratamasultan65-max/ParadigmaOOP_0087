@@ -18,3 +18,4 @@ int main()
 Mahasiswa mhs1;
 
 mhs1.nim = 111;
+mhs1.nama = "Joko Susilo";
