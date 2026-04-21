@@ -15,3 +15,4 @@ public:
 };
 
 int main()
+Mahasiswa mhs1;
